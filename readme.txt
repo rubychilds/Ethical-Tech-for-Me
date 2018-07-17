@@ -1,5 +1,3 @@
-For more awesome website templates make sure to visit https://colorlib.com
+Current work on an AI and Ethics focused newsletter. Including signup page and will eventually include list of past newsletters
 
-All templates are licensed under the Creative Commons Attribution 3.0 license. https://creativecommons.org/licenses/by/3.0/
-
-Which means you can use them for both personal and commercial projects – for free! Just visibly credit us for the template somewhere on your site and you're good to go.
+Based on a template by https://colorlib.com, which are licensed under the Creative Commons Attribution 3.0 license. https://creativecommons.org/licenses/by/3.0/
